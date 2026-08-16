@@ -1,0 +1,2 @@
+# COMPARATIVE-ANALYSIS-OF-DEEP-LEARNING-MODELS-FOR-MALARIA-CELL-CLASSIFICATION
+COMPARATIVE ANALYSIS OF DEEP LEARNING MODELS FOR MALARIA CELL CLASSIFICATION Master's Thesis for the partial fulfilment of the requirements for the Master's Degree in Information Technology 
